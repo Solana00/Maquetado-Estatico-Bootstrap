@@ -1,40 +1,12 @@
-.profile-image-wrapper{
-    display: flex;
-    flex-direction: column;
-    width: 30vw;
-    align-items: center;
-    
-
-}
 
 .profile-img{
     width: 150px;
     height: 150px;
-    margin-top: -10vh;
+    margin-top: -75px;
     border-radius: 50%;
     object-fit: cover;
     object-position: 0 0;
-    margin-bottom: 1vh;
-}
-
-.about-me{
-    display:flex;
-    justify-content: space-between;
-}
-
-.summary{
-    padding: 3em 1.5em 1.5em 1.5em;
-
-}
-
-.my-experience{
-    padding: 0 5vw;
-}
-.experience{
-    display: grid;
-    grid-template-columns: 20vw 1fr;
-    grid-gap: 1vw;
-
+    margin-bottom: 10px;
 }
 
 .my-border{
